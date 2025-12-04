@@ -19,10 +19,6 @@ while story == 0:
 		print(story2)
 	if story == 3:
 		print(story3)
-	pee = str(input('another?'))
-	if pee == yes:
-		story = 0 
-
 
 
 

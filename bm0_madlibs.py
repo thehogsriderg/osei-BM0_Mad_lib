@@ -5,8 +5,6 @@ adjective = str(input('enter feeling / adj'))
 
 story = 0
 
-pee = no
-
 story1 = (f'one day, {noun} decided to meet Mr o for the date they planned. They were realy exited because they planned to {verb}. they were {adjective} after they finished {verb}ing and planed to do it again')
 story2 = (f'once apon a time {noun} wanted to eat out, so he decided to {verb} to the store to get some chips. the chips made him feel so {adjective} that he {verb}ed by himself')
 story3 = (f'today I went to {noun} to get some food. it was so good I {verb} to {noun} but to my {adjective} it was gone')

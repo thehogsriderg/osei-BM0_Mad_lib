@@ -15,10 +15,10 @@ yellow_button = Button(root, text="yellow", background='yellow')
 green_button = Button(root, text="green", background='green')
 
 #Add a label
-label = Label(root, text="this was changed!")
+label = Label(root, text="this was changed by osei!")
 
 # Place widgets in window (with pack function!)
-label.grid(rows = 1, column = 2)
+label.grid(rows = 1, column = 2, width = 50)
 red_button.grid(row = 2, column = 4)
 yellow_button.grid(row = 3, column = 6)
 green_button.grid(row = 4, column = 8)

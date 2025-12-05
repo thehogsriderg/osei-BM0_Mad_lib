@@ -19,9 +19,9 @@ label = Label(root, text="this was changed!")
 
 # Place widgets in window (with pack function!)
 label.grid(rows = 1, column = 0)
-red_button.pack(row = 2, column = 0)
-yellow_button.pack(row = 3, column = 0)
-green_button.pack(row = 4, column = 0)
+red_button.grid(row = 2, column = 0)
+yellow_button.grid(row = 3, column = 0)
+green_button.grid(row = 4, column = 0)
 
 # Start the GUI event loop
 root.mainloop()

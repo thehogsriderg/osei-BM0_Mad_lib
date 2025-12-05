@@ -21,6 +21,7 @@ label = Label(root, text="this was changed by osei!")
 label.grid(rows = 1, column = 2)
 yellow_button.grid(row = 3, column = 6)
 green_button.grid(row = 4, column = 8)
+red_button.grid(row=5, column = 10)
 
 # Start the GUI event loop
 root.mainloop()
